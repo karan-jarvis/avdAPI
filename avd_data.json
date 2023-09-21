@@ -1,3 +1,7 @@
 {
-  "name":"hello"
+  "app_name":"AVD",
+  "banner_ad_id":"ca-app-pub-3940256099942544/6300978111",
+  "app_open_ad_id":"ca-app-pub-3940256099942544/3419835294",
+  "interstitial_ad_id":"ca-app-pub-3940256099942544/1033173712",
+  "ad_show_count":4
 }
