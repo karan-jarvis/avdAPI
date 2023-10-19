@@ -1,8 +1,8 @@
 {
   "app_name":"AVD",
-  "banner_ad_id":"ca-app-pub-3940256099942544/6300978111",
-  "app_open_ad_id":"ca-app-pub-3940256099942544/3419835294",
-  "interstitial_ad_id":"ca-app-pub-3940256099942544/1033173712",
+  "banner_ad_id":"ca-app-pub-03940256099942544/6300978111",
+  "app_open_ad_id":"ca-app-pub-03940256099942544/3419835294",
+  "interstitial_ad_id":"ca-app-pub-03940256099942544/1033173712",
   "ad_show_count":4,
   "app_live_link":"very_nice_app",
   "share_app_link":"https://play.google.com/store/apps/details?id=in.gov.uidai.mAadhaarPlus&hl=en-IN"
